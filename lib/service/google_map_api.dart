@@ -1,3 +1,3 @@
 class GoogleMapApi {
-  static String mapApikey = "AIzaSyAx1kWRniiFEQQyeXXBkOCX7CfLwvCG-2Y";
+  static String mapApikey = "YOur google map api key";
 }

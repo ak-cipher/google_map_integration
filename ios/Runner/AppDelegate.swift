@@ -9,7 +9,7 @@ import Flutter
   ) -> Bool {
     GMSServices
         .prvideAPIKey
-        ("AIzaSyAx1kWRniiFEQQyeXXBkOCX7CfLwvCG-2Y")
+        ("YOur google map api key")
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
